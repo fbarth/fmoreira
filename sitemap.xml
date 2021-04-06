@@ -6,109 +6,117 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
   <loc>http://fernandagmoreira.com.br/</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/index.html</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/livros.html</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/artigos.html</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/textospsicologia.html</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/disciplinas.html</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://fernandagmoreira.com.br/aulas.html</loc>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/gruposestudo.html</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/contato.html</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/detalhes/psiquiatra.html</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/detalhes/psicoterapeuta.html</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/detalhes/analista.html</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/detalhes/supervisora.html</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/papers/j33.pdf</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/papers/j32.pdf</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/papers/j31.pdf</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/papers/j30.pdf</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/papers/j29.pdf</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/jung/TextoAnima.pdf</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/jung/sonhoInconsciente.pdf</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/jung/LinguaParatodosCompletoSite.pdf</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://fernandagmoreira.com.br/publicacoes.html</loc>
-  <lastmod>2016-08-15T20:13:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-09-08T14:26:46+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+
+
 </urlset>
