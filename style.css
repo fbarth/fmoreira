@@ -188,21 +188,20 @@ ul.block {
     min-width: 0;
   }
   .navigation {
-    height: auto;
-    display: flex;
-    flex-direction: column;
+    height: 56px;
     border-top: 1px solid #996;
   }
   .navigation a {
-    float: none;
+    float: left;
     display: block;
-    width: 100%;
+    width: auto;
     box-sizing: border-box;
-    padding: 12px 0;
+    padding: 0 18px;
     font-size: 1.3em;
-    border-right: none;
-    border-bottom: 1px solid #C9C6B3;
-    text-align: left;
+    border-right: 1px solid #C9C6B3;
+    border-bottom: none;
+    text-align: center;
+    line-height: 56px;
   }
 }
 
