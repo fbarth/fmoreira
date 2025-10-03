@@ -181,5 +181,30 @@ ul.block {
 	color: #553;
 }
 
+/* Responsividade para o menu em telas pequenas */
+@media (max-width: 600px) {
+  #wrapper, #container {
+    width: 100%;
+    min-width: 0;
+  }
+  .navigation {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid #996;
+  }
+  .navigation a {
+    float: none;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 12px 0;
+    font-size: 1.2em;
+    border-right: none;
+    border-bottom: 1px solid #C9C6B3;
+    text-align: left;
+  }
+}
+
 .right .block,.right .block li {border-color: #DCDACC;}
 .right .block li a:hover {background: #F2F0EA;}
