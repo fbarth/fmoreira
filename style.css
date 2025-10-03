@@ -183,6 +183,16 @@ ul.block {
 
 /* Esconde o menu padrão e mostra um menu vertical em telas pequenas */
 @media (max-width: 600px) {
+  #wrapper, #container {
+    width: 100%;
+    min-width: 0;
+    max-width: 100vw;
+    margin: 0;
+    padding: 0;
+  }
+  .content {
+    padding: 12px 6px;
+  }
   .navigation {
     height: auto;
     border-top: 1px solid #996;
@@ -193,8 +203,8 @@ ul.block {
     display: block;
     width: 100%;
     box-sizing: border-box;
-    padding: 14px 0;
-    font-size: 1.2em;
+    padding: 12px 0;
+    font-size: 1.0em;
     border-right: none;
     border-bottom: 1px solid #C9C6B3;
     text-align: left;
